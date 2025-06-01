@@ -6,7 +6,7 @@ public class Message {
         return "Hello Duniya";
     }
 
-    public  String showErrrrrrrooessage() {
+    public  String printRror() {
         return "error occureed";
     }
 }
