@@ -5,4 +5,8 @@ public class Message {
     public String getMessage() {
         return "Hello Duniya";
     }
+
+    public  String showErrorMessage() {
+        return "error occureed";
+    }
 }
